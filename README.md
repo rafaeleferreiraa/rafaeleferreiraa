@@ -1,5 +1,5 @@
 ## Oiii, me chamo Rafaele Ferreira
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9D00FF&center=true&vCenter=true&width=435&lines=Frontend+Developer;Designer+UX/+UI" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8E4585&center=true&vCenter=true&width=435&lines=Frontend+Developer;Designer+UX/+UI" />
 
 
 Olá! Me chamo Rafaele Ferreira. Sou uma Desenvolvedora Front-End apaixonada por transformar ideias em interfaces modernas, intuitivas e de alta performance.
@@ -14,6 +14,9 @@ Meu foco é desenvolver interfaces que unam beleza, acessibilidade e usabilidade
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="Rafa-Github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+  <img align="center" alt="Rafa-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
 </div>
   
   ##
