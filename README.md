@@ -1,11 +1,10 @@
-Rafaele Ferreira
-Desenvolvedora Front-End
+## Oiii, me chamo Rafaele Ferreira
+**`Desenvolvedora Front-End`**
 
 Olá! Me chamo Rafaele Ferreira. Sou uma Desenvolvedora Front-End apaixonada por transformar ideias em interfaces modernas, intuitivas e de alta performance.
 
 Tenho experiência sólida na criação de aplicações web responsivas, dinâmicas e bem estruturadas, utilizando React, JavaScript e Tailwind CSS para construir experiências eficientes, elegantes e centradas no usuário.
 Meu foco é desenvolver interfaces que unam beleza, acessibilidade e usabilidade, aplicando boas práticas de arquitetura, componentização, organização de código e otimização. Sou curiosa, proativa e tenho facilidade em aprender novas tecnologias, buscando sempre evoluir e entregar produtos cada vez melhores.
-Total de estrelas Seguidores
 
 🚀 Linguagens e Tecnologias
 <div style="display: inline_block"><br>
@@ -20,7 +19,6 @@ Total de estrelas Seguidores
  
 <div> 
   <a href="https://www.instagram.com/_rafaeleferreiraa_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/ryfasz" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/rafaeleferreiraa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
