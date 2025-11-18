@@ -1,16 +1,27 @@
-## Hi there 👋
+Rafaele Ferreira
+Desenvolvedora Front-End
 
-<!--
-**rafaeleferreiraa/rafaeleferreiraa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá! Me chamo Rafaele Ferreira. Sou uma Desenvolvedora Front-End apaixonada por transformar ideias em interfaces modernas, intuitivas e de alta performance.
 
-Here are some ideas to get you started:
+Tenho experiência sólida na criação de aplicações web responsivas, dinâmicas e bem estruturadas, utilizando React, JavaScript e Tailwind CSS para construir experiências eficientes, elegantes e centradas no usuário.
+Meu foco é desenvolver interfaces que unam beleza, acessibilidade e usabilidade, aplicando boas práticas de arquitetura, componentização, organização de código e otimização. Sou curiosa, proativa e tenho facilidade em aprender novas tecnologias, buscando sempre evoluir e entregar produtos cada vez melhores.
+Total de estrelas Seguidores
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Linguagens e Tecnologias
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+  
+  ##
+ 
+<div> 
+  <a href="https://www.instagram.com/_rafaeleferreiraa_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/ryfasz" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/rafaeleferreiraa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
+
