@@ -1,5 +1,6 @@
 ## Oiii, me chamo Rafaele Ferreira
-**`Desenvolvedora Front-End`**
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9D00FF&center=true&vCenter=true&width=435&lines=Frontend+Developer;Designer+UX/+UI" />
+
 
 Olá! Me chamo Rafaele Ferreira. Sou uma Desenvolvedora Front-End apaixonada por transformar ideias em interfaces modernas, intuitivas e de alta performance.
 
